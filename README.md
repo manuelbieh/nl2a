@@ -1,6 +1,6 @@
 # nl2a
 
-This tiny module let's you create an array from a multiline ES2015 template-strings.
+This tiny module let's you create an array from a multiline ES2015 template-string.
 
 ## Installation
 
