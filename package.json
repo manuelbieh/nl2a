@@ -1,0 +1,25 @@
+{
+  "name": "nl2a",
+  "version": "1.0.0",
+  "description": "ES2015 tagged template string to create arrays from strings with new lines",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelbieh/nl2a.git"
+  },
+  "keywords": [
+    "es2015",
+    "newline",
+    "array",
+    "template-string"
+  ],
+  "author": "Manuel Bieh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manuelbieh/nl2a/issues"
+  },
+  "homepage": "https://github.com/manuelbieh/nl2a#readme"
+}
