@@ -1,7 +1,6 @@
 # nl2a
-ES2015 tagged template string to create arrays from strings with new lines
 
-This tiny module let's you create an array from a multiline ES2015 template string.
+This tiny module let's you create an array from a multiline ES2015 template-strings.
 
 ## Installation
 
